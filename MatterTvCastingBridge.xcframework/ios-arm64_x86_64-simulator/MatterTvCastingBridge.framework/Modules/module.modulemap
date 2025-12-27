@@ -1,0 +1,6 @@
+framework module MatterTvCastingBridge {
+  umbrella header "MatterTvCastingBridge.h"
+  export *
+
+  module * { export * }
+}
