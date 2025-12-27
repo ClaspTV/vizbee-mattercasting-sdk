@@ -14,5 +14,5 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VizbeeMatterCastingKit",
-            path: "VizbeeMatterCastingKit.xcframework")
+            path: "MatterTvCastingBridge.xcframework")
     ])
