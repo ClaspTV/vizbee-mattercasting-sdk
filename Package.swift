@@ -9,10 +9,10 @@ let package = Package(
     products: [
         .library(
             name: "VizbeeMatterCastingKit",
-            targets: ["VizbeeMatterCastingKit"])
+            targets: ["MatterTvCastingBridge"])
     ],
     targets: [
         .binaryTarget(
-            name: "VizbeeMatterCastingKit",
+            name: "MatterTvCastingBridge",
             path: "MatterTvCastingBridge.xcframework")
     ])
