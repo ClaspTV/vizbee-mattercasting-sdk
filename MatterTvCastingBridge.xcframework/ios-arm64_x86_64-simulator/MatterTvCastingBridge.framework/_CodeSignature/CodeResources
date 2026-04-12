@@ -4,41 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/AppParameters.h</key>
-		<data>
-		HjM5qvMGpnYYS1cALa08qQo3gJE=
-		</data>
-		<key>Headers/CastingPlayerDiscoveryListenerCompat.h</key>
-		<data>
-		aAtkp2vCE/raCAwrU4/GFbYMVVc=
-		</data>
-		<key>Headers/CastingServerBridge.h</key>
-		<data>
-		XMnikt9Iv8O3XANafTiFr1Prcjs=
-		</data>
 		<key>Headers/CommissioningCallbackHandlers.h</key>
 		<data>
 		7KICh2G5V6tvk9xE0CuXdHd2z/Y=
-		</data>
-		<key>Headers/ContentApp.h</key>
-		<data>
-		1KJjrdQdkhsPeTxyfhh83jMpuTE=
-		</data>
-		<key>Headers/ContentLauncherTypes.h</key>
-		<data>
-		CDrq/Wk2ycRhTndlmlcBPZ5F3ho=
-		</data>
-		<key>Headers/DataSourceCompat.h</key>
-		<data>
-		xjc1Zky87Ao3fIu+z/ej71Y2PRg=
-		</data>
-		<key>Headers/DeviceAttestationCredentialsHolder.h</key>
-		<data>
-		eKl3NtS4dH9qzctdEZCn0kjqPAM=
-		</data>
-		<key>Headers/DiscoveredNodeData.h</key>
-		<data>
-		HQ3QVmi0Aljwyhkn7HlG2vSXRgI=
 		</data>
 		<key>Headers/MCAttribute.h</key>
 		<data>
@@ -190,11 +158,7 @@
 		</data>
 		<key>Headers/MatterTvCastingBridge.h</key>
 		<data>
-		Yl8onqIFQXQ3GpyYQswKB3vIneE=
-		</data>
-		<key>Headers/MediaPlaybackTypes.h</key>
-		<data>
-		pQTH3FLpSSvkkpe3YriLkt3CVjw=
+		iDyGOYDiUVdoanDhguBhRLzVGaU=
 		</data>
 		<key>Headers/NSDataSpanConversion.h</key>
 		<data>
@@ -204,21 +168,9 @@
 		<data>
 		cpayq3ohSDmdY5ucsxLYV04gVRQ=
 		</data>
-		<key>Headers/OnboardingPayload.h</key>
-		<data>
-		Phd6OvptX00PVkD7WX9ZlPfXYBY=
-		</data>
-		<key>Headers/TargetNavigatorTypes.h</key>
-		<data>
-		JTl93a3/inH8mEj1qDsJ02gsNyc=
-		</data>
-		<key>Headers/VideoPlayer.h</key>
-		<data>
-		4KdWxcdGsa8M8E4W5egeanfHi8o=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		em93C9muMrKXIJHgY5u5GLVvrag=
+		WEoBE6zefokXgbr0BcI7eHxTk9s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -227,67 +179,11 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/AppParameters.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			E47YD7xU0fVIrORLvJMbkR/2sww1Xc+RuTPOPg9M1KA=
-			</data>
-		</dict>
-		<key>Headers/CastingPlayerDiscoveryListenerCompat.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8UyUSkufmtW+ZWPoKirDlCvR0S5/ayt+L8We8TXTcaw=
-			</data>
-		</dict>
-		<key>Headers/CastingServerBridge.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0Pgy1ZRCD1wLRKWbUS6pZp/OGWzyvpkk5Ru2LDkpbRM=
-			</data>
-		</dict>
 		<key>Headers/CommissioningCallbackHandlers.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			YYrFKqgtz2WWiZHhSuVzMtwewLCgCqPx19r9MCsrrcU=
-			</data>
-		</dict>
-		<key>Headers/ContentApp.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rWYk1uw5vRRwUB2IClaXmNbAovtLCbCeg1JXwajzUwI=
-			</data>
-		</dict>
-		<key>Headers/ContentLauncherTypes.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WbbiJWDdOtfJJ8J5Eu8f54jMmYfcgQ2wHfNIh5lITCs=
-			</data>
-		</dict>
-		<key>Headers/DataSourceCompat.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mNVKF1ZscNP3d5AXPYw2Zzl70TARNbrmWED8Qk6Ji4E=
-			</data>
-		</dict>
-		<key>Headers/DeviceAttestationCredentialsHolder.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IGM0ImjerOvnh6MzsHcWAWKDmiO8WfnDyHeoqLP4LLM=
-			</data>
-		</dict>
-		<key>Headers/DiscoveredNodeData.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			x729i1nyst0XGhWxvqdXuP/0jnXbK6XE3Ei8kIbVkX0=
 			</data>
 		</dict>
 		<key>Headers/MCAttribute.h</key>
@@ -553,14 +449,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vOOneLWFN5fhBJ1ofH9J4x6f740F4nw3+dCYNevTXvY=
-			</data>
-		</dict>
-		<key>Headers/MediaPlaybackTypes.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kIsX4JYWFSFMaAXhYX+xho+AHBVOJOFryl47pUn3abw=
+			6RtkMJ3W0Jxp9f7EBkzyyMmKOpT1WPc6ESBQmlJl9VY=
 			</data>
 		</dict>
 		<key>Headers/NSDataSpanConversion.h</key>
@@ -575,27 +464,6 @@
 			<key>hash2</key>
 			<data>
 			o7nJWfv9pfSzqCAFvu/8Pq/+jeIZevQmE+fLc1XlTWw=
-			</data>
-		</dict>
-		<key>Headers/OnboardingPayload.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lOrsXqibYybdNlUBZrOvJ8B2Sx6OJwHUcZG+g7d8z+U=
-			</data>
-		</dict>
-		<key>Headers/TargetNavigatorTypes.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SLjNLp0SL490+oGgOmTbwcmE0sS/n420g+ywaW7wtmw=
-			</data>
-		</dict>
-		<key>Headers/VideoPlayer.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oj1U6IGZIoiNBRKblzlkidaFPAeBwWnDZfrSynWKapc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
