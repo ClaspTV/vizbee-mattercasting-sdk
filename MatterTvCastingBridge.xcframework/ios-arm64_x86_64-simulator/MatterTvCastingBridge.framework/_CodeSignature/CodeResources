@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CommissioningCallbackHandlers.h</key>
-		<data>
-		7KICh2G5V6tvk9xE0CuXdHd2z/Y=
-		</data>
 		<key>Headers/MCAttribute.h</key>
 		<data>
 		bfhXYsbpGODahwCfv1LxdR8NEHg=
@@ -98,7 +94,7 @@
 		</data>
 		<key>Headers/MCDataSource.h</key>
 		<data>
-		Bikl3uOiqWncFf4mifA1/ZXmLIo=
+		mNxrCZvMnNKbL++qmlCIYFk0AXM=
 		</data>
 		<key>Headers/MCDeviceAttestationCredentials.h</key>
 		<data>
@@ -107,6 +103,10 @@
 		<key>Headers/MCDeviceAttestationCredentialsProvider.h</key>
 		<data>
 		StNQOllkg45U1nrFdbuWRN4/bYs=
+		</data>
+		<key>Headers/MCDeviceInstanceInfo.h</key>
+		<data>
+		Lm3W62sUnDsXL+SWvoRcafpTZnw=
 		</data>
 		<key>Headers/MCDeviceTypeStruct.h</key>
 		<data>
@@ -179,13 +179,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CommissioningCallbackHandlers.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YYrFKqgtz2WWiZHhSuVzMtwewLCgCqPx19r9MCsrrcU=
-			</data>
-		</dict>
 		<key>Headers/MCAttribute.h</key>
 		<dict>
 			<key>hash2</key>
@@ -344,7 +337,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N/3nbgopoqDFA+3H3ZiZ8rjLiHA53PBKjz1lFO6pDlw=
+			a1ldiFZ3hZu6GZyQxGmnmL4K9sv8hcN0sL822V+MM5U=
 			</data>
 		</dict>
 		<key>Headers/MCDeviceAttestationCredentials.h</key>
@@ -359,6 +352,13 @@
 			<key>hash2</key>
 			<data>
 			WVkKJaSwx9akLorPQhWKaFH7pHzuu5yAtGn5tOR7hyE=
+			</data>
+		</dict>
+		<key>Headers/MCDeviceInstanceInfo.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WyZVtH7wnXUc++X2Ub894TW9ZXEX8e65nuEki2C94Js=
 			</data>
 		</dict>
 		<key>Headers/MCDeviceTypeStruct.h</key>
